@@ -1,0 +1,29 @@
+.hello:link {
+    color:aqua;
+}
+
+.hello:hover {
+    font-family:blod;
+    font-size:20px;
+    color:blue;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+li:nth-child(odd) a {
+    color:chartreuse;
+}
+
+li:nth-child(odd) a:hover {
+    color:chocolate;
+}
+
+p:first-of-type {
+    color:darkcyan;
+}
